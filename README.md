@@ -3,6 +3,19 @@ Student in IT
 18 year old Webdeveloper 
 
 
+<div align="center">
+<img max-width="800" src="https://raw.githubusercontent.com/innng/innng/master/assets/banner.png%22/%3E
+</div>
+
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif%22/%3E Links
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/-twitter-1C9CEA?style=flat-square)](https://twitter.com/_innng_)
+[![](https://img.shields.io/badge/-meetup-EE3E5D?style=flat-square)](https://www.meetup.com/members/262353843/)
+[![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
+[![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridrosselis/badges)
+
+Написать @Mbush
+
 
 <p align="center">
     <a href="https://github.com/tanaruuu" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@tanaruuu?style=flat-square&logo=GitHub&logoColor=white"></a>
