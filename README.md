@@ -1,8 +1,3 @@
-Info about me:
-Student in IT
-18 year old Webdeveloper 
-
-
 <div align="center">
 <img max-width="800" src="https://raw.githubusercontent.com/innng/innng/master/assets/banner.png%22/%3E
 </div>
@@ -14,7 +9,6 @@ Student in IT
 [![](https://img.shields.io/badge/-resume-332B40?style=flat-square)](https://resume.io/r/zUDFmwciy)
 [![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/ingridrosselis/badges)
 
-Написать @Mbush
 
 
 <p align="center">
