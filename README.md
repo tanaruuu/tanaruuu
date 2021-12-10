@@ -5,7 +5,7 @@ Student in IT
 
 
 <p align="center">
-    <a href="https://github.com/tanaruuu" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@MbushCoding?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/tanaruuu" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@tanaruuu?style=flat-square&logo=GitHub&logoColor=white"></a>
     
    
 
